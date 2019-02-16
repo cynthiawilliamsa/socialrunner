@@ -1,0 +1,11 @@
+{
+  "default": {
+    "endpoint": "https://socialrunner-b9ecfe95.us-east1.slicknode.com",
+    "version": "UHJvamVjdFZlcnNpb246ODQ",
+    "alias": "socialrunner-b9ecfe95",
+    "consoleUrl": "https://console.slicknode.com/p/socialrunner-b9ecfe95",
+    "playgroundUrl": "https://console.slicknode.com/p/socialrunner-b9ecfe95/playground",
+    "name": "socialrunner",
+    "id": "UHJvamVjdDoxOQ"
+  }
+}
